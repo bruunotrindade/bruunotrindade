@@ -1,6 +1,6 @@
-<h2> Hi, I'm Bruno Trindade! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Bruno Trindade! <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-<p><em>System Analyst at <a href="http://idaf.acre.gov.br">Instituto de Defesa Agropecuária e Florestal do Acre</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>System Analyst at <a href="http://idaf.acre.gov.br">Instituto de Defesa Agropecuária e Florestal do Acre</a><img src="https://media.giphy.com/media/UtWB4kipDcZvWluE6a/giphy.gif" width="30">
 </em></p>
 
 ## 👾 &nbsp;About Me
