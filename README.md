@@ -8,7 +8,6 @@
 - 🔭 I’m learning Docker and CI/CD with GitLab.
 - 🌱 I’m currently using Python with Django, Java and JavaScript with Node JS.
 - 🛠️ Coding since I was a kid (2010).
-- 🧠 Nowadays, I can consider me a gamer.
 
 
 <p align="center">
