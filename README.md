@@ -1,13 +1,15 @@
 <h2> Hi, I'm Bruno Trindade! <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-<p><em>Systems Analyst and Software Developer at <a href="http://idaf.acre.gov.br">Instituto de Defesa Agropecuária e Florestal do Acre</a><img src="https://media.giphy.com/media/UtWB4kipDcZvWluE6a/giphy.gif" width="30">
+<p><em>Senior Software Engineer at <a href="https://www.foxbox.com/">Foxbox Digital</a>
 </em></p>
 
 ## 👾 &nbsp;About Me
 
-- 🔭 I’m learning Docker and CI/CD with GitLab.
-- 🌱 I’m currently using Python with Django, Java and JavaScript with Node JS.
-- 🛠️ Coding since I was a kid (2010).
+- 🌱 Currently using Python with Django and Fast API.
+- 🛠️ Currently using Google Cloud environment (App Engine, SQL, Tasks, Scheduler, Memorystore, etc.).
+- 👨🏽‍💻 Focusing on application and database performance improvement.
+- 🔭 Coding professionally since 2018.
+- 🛠️ Coding since I was a teenager (2010).
 
 
 <p align="center">
