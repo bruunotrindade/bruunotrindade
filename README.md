@@ -21,4 +21,7 @@ I'm a **Senior Python Engineer** and **Tech Lead** with 6 years of experience in
 - 💼 LinkedIn: [bruunotrindade](https://www.linkedin.com/in/bruunotrindade)
 - 🏗 GitHub: [bruunotrindade](https://github.com/bruunotrindade)
 
+## ⚙️ GitHub Statistics
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruunotrindade&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 Thanks for visiting my profile! 🚀
